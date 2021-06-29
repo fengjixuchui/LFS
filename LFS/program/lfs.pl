@@ -25,7 +25,7 @@ print "Choice module\n";
 print color('reset');
 
 print color('green');
-	print "[1] logs\n";
+	print "[1] Check for all existing logs\n";
 	print "[2] traversal\n";
 	print "[3] sniff\n";
 	print "[4] attack\n";
@@ -40,7 +40,7 @@ print color('reset');
 my $m0dulEs = <STDIN>;
 
 if ($m0dulEs == 1){
-system("perl modules/scan.pl");
+system("perl modules/logs.pl");
 }
 	if ($m0dulEs == 2){
 system("perl modules/traversal.pl");
