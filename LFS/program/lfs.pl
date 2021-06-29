@@ -26,7 +26,7 @@ print color('reset');
 
 print color('green');
 	print "[1] Check for all existing logs\n";
-	print "[2] traversal\n";
+	print "[2] Check who is on server\n";
 	print "[3] sniff\n";
 	print "[4] attack\n";
 	print "[5] CMS-Detect,OS other\n";
@@ -43,7 +43,7 @@ if ($m0dulEs == 1){
 system("perl modules/logs.pl");
 }
 	if ($m0dulEs == 2){
-system("perl modules/traversal.pl");
+system("perl modules/whoisonserver.pl");
 }
 	if ($m0dulEs == 3){
 system("perl modules/sniff.pl");
