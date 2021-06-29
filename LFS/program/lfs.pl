@@ -7,26 +7,19 @@ use diagnostics;
 use Term::ANSIColor;
 
 print color('blue');
-print "                                                                 ;                                         
-             :                                                   ED.                                       
- G:         t#,           .                L.             :      E#Wi                                    ,;
- E#,    :  ;##W.         ;W.    .      t   EW:        ,ft Ef     E###G.                                f#i 
- E#t  .GE :#L:WE        f#EDi   Dt     Ej  E##;       t#E E#t    E#fD#W;                             .E#t  
- E#t j#K;.KG  ,#D     .E#f E#i  E#i    E#, E###t      t#E E#t    E#t t##L      ,##############Wf.   i#W,   
- E#GK#f  EE    ;#f   iWW;  E#t  E#t    E#t E#fE#f     t#E E#t    E#t  .E#K,     ........jW##Wt     L#D.    
- E##D.  f#.     t#i L##LffiE#t  E#t    E#t E#t D#G    t#E E#t fi E#t    j##f          tW##Kt     :K#Wfff;  
- E##Wi  :#G     GK tLLG##L E########f. E#t E#t  f#E.  t#E E#t L#jE#t    :E#K:       tW##E;       i##WLLLLt 
- E#jL#D: ;#L   LW.   ,W#i  E#j..K#j... E#t E#t   t#K: t#E E#t L#LE#t   t##L       tW##E;          .E#L     
- E#t ,K#j t#f f#:   j#E.   E#t  E#t    E#t E#t    ;#W,t#E E#tf#E:E#t .D#W;     .fW##D,              f#E:   
- E#t   jD  f#D#;  .D#j     E#t  E#t    E#t E#t     :K#D#E E###f  E#tiW#G.    .f###D,                 ,WW;  
- j#t        G#t  ,WK,      f#t  f#t    E#t E#t      .E##E E#K,   E#K##i    .f####Gfffffffffff;        .D#; 
-  ,;         t   EG.        ii   ii    E#t ..         G#E EL     E##D.    .fLLLLLLLLLLLLLLLLLi          tt 
-                 ,                     ,;.             fE :      E#t                                       
-                                                        ,        L:";
-							print color('reset');
-							print color('cyan');
-							print "by nu11secur1ty v-∞\n";
-							print color('reset');
+print " 
+ _      ______ _____ 
+| |    |  ____/ ____|
+| |    | |__ | (___  
+| |    |  __| \___ \ 
+| |____| |    ____) |
+|______|_|   |_____/\n";
+							
+print color('reset');
+print color('cyan');
+print "by nu11secur1ty v-∞\n";
+print color('reset');
+
 print color('red');
 print "Choice module\n";
 print color('reset');
