@@ -25,7 +25,7 @@ print "Choice module\n";
 print color('reset');
 
 print color('green');
-	print "[1] scan\n";
+	print "[1] logs\n";
 	print "[2] traversal\n";
 	print "[3] sniff\n";
 	print "[4] attack\n";
